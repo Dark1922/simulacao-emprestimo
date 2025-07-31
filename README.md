@@ -45,17 +45,21 @@ mvn spring-boot:run
    ```
    mvn clean install
    ```
+```bash
 3. **Executar**:  
    ```
    mvn spring-boot:run
    ```
+ ```
 
+```bash
    **Front**:  
    ```
    clonar o projeto e dar os seguintes comando:
    npm install
    npm run dev
    ```
+  ```
 
 
 4. ## Exemplo de Requisição
